@@ -21,7 +21,7 @@ __Click "Files" icon:__
 
 __Select the desired folder and select "Upload Windows Files":__
 
-![](images_qapp_audit_select_upload.png)
+![](images/images_qapp_audit_select_upload.png)
 
 __Select the audit rules file and complete the upload process:__
 
