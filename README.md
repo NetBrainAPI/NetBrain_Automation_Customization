@@ -1,6 +1,5 @@
 # NetBrain Custom Repository
-A repository for documenting and collaborating purpose built content (DVT, Qapps, Runbooks)
-
+This repository contains the most common use cases and best practices in NetBrain.
 
 ## Resource Category by Network Features:
 * [BGP](bgp/)
