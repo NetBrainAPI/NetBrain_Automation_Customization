@@ -1,11 +1,11 @@
 # Create Fiber Connection Map
-This is a customized solution for the layer 1 connection by using NetBrain Dynamic Map and Topology Manager.
+This is a solution for the customization connection by using NetBrain Dynamic Map and Topology Manager.
 
 *Version: NetBrain v8.x*
 
 ## Use Case
 
-Topology is critical for network, but it is really hard to have a central place to update the topology or map. L3 and L2 topology can be detected by using IP address and Neighbor Discover Protocol, but hard to acknowledge the L1 connections like fiber or related devices.
+Topology is critical for network, but it is really hard to have a central place to update the topology or map. L3 and L2 topology can be detected by using IP address and Neighbor Discover Protocol, but hard to acknowledge the connections like fiber, transparent firewall, etc.
 
 ## Solution
 
