@@ -1,7 +1,7 @@
 # Create Fiber Connection Map
 This is a solution for the customization connection by using NetBrain Dynamic Map and Topology Manager.
 
-*Version: NetBrain v8.x*
+**Version: NetBrain v8.x**
 
 ## Use Case
 
