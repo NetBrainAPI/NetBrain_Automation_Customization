@@ -1,7 +1,7 @@
 # Create Fiber Connection Map
 This is a solution for the customization connection by using NetBrain Dynamic Map and Topology Manager.
 
-*Version: NetBrain v8.x*
+**Version: NetBrain v8.x**
 
 ## Use Case
 
@@ -37,6 +37,6 @@ Topology is critical for network, but it is really hard to have a central place 
 * Once the domain topology rebuild, the map will update automatically.
 * The map can be used for future documentation and troubleshooting.
 
-
 ### *Disclaimer*
 *The solution provided above is developed by testing environment so may not suit to every scenario, please feel free to contact NetBrain Support <Support@netbraintech.com> if any questions related to the solution.* 
+
