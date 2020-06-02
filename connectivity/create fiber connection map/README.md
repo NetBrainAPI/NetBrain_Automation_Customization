@@ -9,13 +9,15 @@ Topology is critical for network, but it is really hard to have a central place 
 
 ## Solution
 
-### 1. [Create Generic Devices](https://www.netbraintech.com/docs/ie80/help/index.html?undiscoverable-devices.htm)
+### 1. Create Generic Devices
 
 ![](images/create_generic_devices.png)
 * Click the `Generic Device` under `Domain Management`.
 * Create the device and add links.
 
-### 2. [Add Connections in Topology Manager](https://www.netbraintech.com/docs/ie80/help/index.html?adding-a-topology-link.htm):
+*refer link: https://www.netbraintech.com/docs/ie80/help/index.html?undiscoverable-devices.htm*
+
+### 2. Add Connections in Topology Manager
 
 ![](images/click_topo_manager.png)
 * Click the `Topology Link Manager` under `Domain Management`.
@@ -27,8 +29,14 @@ Topology is critical for network, but it is really hard to have a central place 
 ![](images/topo_links_added.png)
 * Verify added customized links.
 
+*refer link: https://www.netbraintech.com/docs/ie80/help/index.html?adding-a-topology-link.htm*
+
 ## Results
 
 ![](images/map_generic_device.gif)
 * Once the domain topology rebuild, the map will update automatically.
 * The map can be used for future documentation and troubleshooting.
+
+### *Disclaimer*
+*The solution provided above is developed by testing environment so may not suit to every scenario, please feel free to contact NetBrain Support <Support@netbraintech.com> if any questions related to the solution.* 
+
