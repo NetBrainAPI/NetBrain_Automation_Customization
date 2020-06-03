@@ -5,7 +5,7 @@ from jinja2 import Template
 
 
 
-root_path = r"C:\Junaid\Work\GitHubLocal\NetBrain_Automation_Customization"
+root_path = r"."
 dir_ignore_list = [ ".git", "info", "logs", "objects", "refs"]
 root_readme_template = """
 
