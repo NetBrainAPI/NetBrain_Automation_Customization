@@ -34,7 +34,7 @@ The example is based on Cisco ASA firewall, but similar concept could apply to o
 
 #### 3.2 Run Qapp as report
 ![](images/report.png)
-* Need set up and manual clock run
+* Need set up and manual click `Run` to get result.
 
 *refer link: https://www.netbraintech.com/docs/ie80/help/index.html?qapp_based-report.htm*
 #### 3.3 Schedule Qapp 
