@@ -15,7 +15,7 @@ Topology is critical for network, but it is really hard to have a central place 
 * Click the `Generic Device` under `Domain Management`.
 * Create the device and add links.
 
-*refer link: https://www.netbraintech.com/docs/ie80/help/index.html?undiscoverable-devices.htm*
+*To learn more about this, please see: https://www.netbraintech.com/docs/ie80/help/index.html?undiscoverable-devices.htm*
 
 ### 2. Add Connections in Topology Manager
 
@@ -29,7 +29,7 @@ Topology is critical for network, but it is really hard to have a central place 
 ![](images/topo_links_added.png)
 * Verify added customized links.
 
-*refer link: https://www.netbraintech.com/docs/ie80/help/index.html?adding-a-topology-link.htm*
+*To learn more about this, please see: https://www.netbraintech.com/docs/ie80/help/index.html?adding-a-topology-link.htm*
 
 ## Results
 

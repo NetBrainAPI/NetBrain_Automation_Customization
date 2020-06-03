@@ -15,7 +15,7 @@ The example is based on Cisco ASA firewall, but similar concept could apply to o
 ![](images/show_conn_parser.png)
 * Create Cisco ASA parser `show conn` under `Parser Library`.
 
-*refer link: https://www.netbraintech.com/docs/ie80/help/index.html?parser-library.htm*
+*To learn more about this, please see: https://www.netbraintech.com/docs/ie80/help/index.html?parser-library.htm*
 
 ### 2. Create Automated Report Qapp
 ![](images/execution_flow.png)
@@ -26,7 +26,7 @@ The example is based on Cisco ASA firewall, but similar concept could apply to o
 ![](images/canvas.png)
 * By using the `show conn [Cisco ASA]` parser, export the result to a CSV.
 
-*refer link: https://www.netbraintech.com/docs/ie80/help/index.html?qapp.htm*
+*To learn more about this, please see: https://www.netbraintech.com/docs/ie80/help/index.html?qapp.htm*
 
 ### 3. Execute the Qapp
 #### 3.1 Run Qapp on a map
@@ -36,14 +36,14 @@ The example is based on Cisco ASA firewall, but similar concept could apply to o
 ![](images/report.png)
 * Need set up and manual click `Run` to get result.
 
-*refer link: https://www.netbraintech.com/docs/ie80/help/index.html?qapp_based-report.htm*
+*To learn more about this, please see: https://www.netbraintech.com/docs/ie80/help/index.html?qapp_based-report.htm*
 #### 3.3 Schedule Qapp 
 ![](images/schedule01.png)
 * Schedule Qapp based on the frequency.
 ![](images/schedule02.png)
 * View scheduled result
 
-*refer link: https://www.netbraintech.com/docs/ie80/help/index.html?creating-a-qapp-schedule.htm*
+*To learn more about this, please see: https://www.netbraintech.com/docs/ie80/help/index.html?creating-a-qapp-schedule.htm*
 
 ## Results
 
