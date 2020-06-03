@@ -8,12 +8,10 @@ from jinja2 import Template
 root_path = r"."
 dir_ignore_list = [ ".git", "info", "logs", "objects", "refs"]
 root_readme_template = """
-
 # NetBrain Custom Repository
 This repository contains the most common use cases and best practices in NetBrain.
 
 ## Resource Category by Network Features:
-
 {% for feature in features %}
 * [{{feature.name|upper}}]({{feature.name|replace(' ','%20')}}/) ({{feature.count}})
 {%- endfor %}
@@ -40,13 +38,11 @@ for root_dir in root_dir_list:
     dir_tree.append(dir_tree_item)
 
     
-    
-#print (dir_tree)
 
 readme_template = Template(root_readme_template)
 readme_txt = readme_template.render(features=dir_tree)
 print (readme_txt)
 
 
-with open('_README.MD','w') as f_readme:
+with open('README.MD','w') as f_readme:
   f_readme.write(readme_txt)
