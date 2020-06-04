@@ -18,7 +18,7 @@ This repository contains the most common use cases and best practices in NetBrai
 """
 feature_readme_template = """# NetBrain Custom Repository
 
-## Resource list related to >{{feature_name|upper}}
+## Resource list related to *{{feature_name|upper}}*
 {% if feature_count==0 %}
 * Stay Tuned!
 {% else %}
