@@ -1,5 +1,6 @@
 # NetBrain Custom Repository
 
+## Resource list related to COMPLIANCE
 
-## Compliance and Audit related resource list:
-* [Configuration Audit and Compliance Reporting](audit%20and%20compliance%20reporting/)
+
+* [audit and compliance reporting](audit%20and%20compliance%20reporting)/

@@ -1,5 +1,6 @@
 # NetBrain Custom Repository
 
+## Resource list related to CONNECTIVITY
 
-## General connectivity related resource list:
-* [create fiber connection map](create%20fiber%20connection%20map/README.md)
+
+* [create fiber connection map](create%20fiber%20connection%20map)/

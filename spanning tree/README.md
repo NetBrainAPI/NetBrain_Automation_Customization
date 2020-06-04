@@ -1,5 +1,5 @@
 # NetBrain Custom Repository
 
+## Resource list related to SPANNING TREE
 
-## Spanning Tree related resource list:
-* Stay Tunned
+* Stay Tuned!

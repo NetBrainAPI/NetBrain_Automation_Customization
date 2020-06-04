@@ -6,9 +6,8 @@ from jinja2 import Template
 
 
 root_path = r"."
-dir_ignore_list = [ ".git", "info", "logs", "objects", "refs"]
-root_readme_template = """
-# NetBrain Custom Repository
+dir_ignore_list = [ ".git", ".vs", "info", "logs", "objects", "refs"]
+root_readme_template = """# NetBrain Custom Repository
 This repository contains the most common use cases and best practices in NetBrain.
 
 ## Resource Category by Network Features:
@@ -17,6 +16,18 @@ This repository contains the most common use cases and best practices in NetBrai
 {%- endfor %}
 
 """
+feature_readme_template = """# NetBrain Custom Repository
+
+## Resource list related to {{feature_name|upper}}
+{% if feature_count==0 %}
+* Stay Tuned!
+{% else %}
+{% for feature_name in feature_list %}
+* [{{feature_name}}]({{feature_name|replace(' ','%20')}})/
+{%- endfor %}
+{% endif %}
+"""
+
 
 dir_tree = []
 
@@ -37,12 +48,34 @@ for root_dir in root_dir_list:
         dir_tree_item['list'].append(sub_dir)
     dir_tree.append(dir_tree_item)
 
-    
+print (dir_tree)    
 
 readme_template = Template(root_readme_template)
 readme_txt = readme_template.render(features=dir_tree)
-print (readme_txt)
 
 
-with open('README.MD','w') as f_readme:
-  f_readme.write(readme_txt)
+with open('README.MD','r') as f_readme:
+  header = f_readme.readline()
+  
+  if "NetBrain Custom Repository" in header:
+    f_readme.close()
+    with open('README.MD','w') as f_readme:
+      f_readme.write(readme_txt)
+  else:
+    with open('_README.MD','w') as f_readme:
+      f_readme.write(readme_txt)
+
+for dir in dir_tree:
+  readme_template = Template(feature_readme_template)
+  readme_txt = readme_template.render(feature_name=dir["name"],feature_count=dir["count"],feature_list=dir["list"])
+
+  with open(f'{dir["name"]}/README.MD','r') as f_readme:
+    header = f_readme.readline()
+    
+    if "NetBrain Custom Repository" in header:
+      f_readme.close()
+      with open(f'{dir["name"]}/README.md','w') as f_readme:
+        f_readme.write(readme_txt)
+    else:
+      with open(f'{dir["name"]}/_README.md','w') as f_readme:
+        f_readme.write(readme_txt)

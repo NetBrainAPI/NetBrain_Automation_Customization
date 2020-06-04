@@ -1,4 +1,3 @@
-
 # NetBrain Custom Repository
 This repository contains the most common use cases and best practices in NetBrain.
 
@@ -9,8 +8,8 @@ This repository contains the most common use cases and best practices in NetBrai
 * [CONNECTIVITY](connectivity/) (1)
 * [HIGH AVAILABILITY](high%20availability/) (0)
 * [IPSEC](ipsec/) (0)
-* [MULTICAST](multicast/) (0)
+* [MULTICAST](multicast/) (1)
 * [OSPF](ospf/) (0)
-* [SECURITY](security/) (1)
+* [SECURITY](security/) (2)
 * [SPANNING TREE](spanning%20tree/) (0)
 * [VPLS](vpls/) (1)

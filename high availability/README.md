@@ -1,5 +1,5 @@
 # NetBrain Custom Repository
 
+## Resource list related to HIGH AVAILABILITY
 
-## High Availability related resource list:
-* Stay Tunned
+* Stay Tuned!
