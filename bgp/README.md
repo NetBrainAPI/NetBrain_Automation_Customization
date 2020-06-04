@@ -1,5 +1,5 @@
 # NetBrain Custom Repository
 
-## Resource list related to BGP
+## Resource list related to >BGP
 
 * Stay Tuned!
