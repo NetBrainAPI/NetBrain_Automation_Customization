@@ -1,6 +1,6 @@
 # NetBrain Custom Repository
 
-## Resource list related to *SECURITY*
+## Resource list related to [SECURITY]
 
 
 * [find srx security policy](find%20srx%20security%20policy/)
