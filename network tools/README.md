@@ -1,5 +1,6 @@
 # NetBrain Custom Repository
 
-## Resource list related to [OSPF]
+## Resource list related to [NETWORK TOOLS]
 
-* Stay Tuned!
+
+* [get today’s logs from device](get%20today’s%20logs%20from%20device/)
