@@ -42,7 +42,7 @@ show sys connection
 ````
 
 ## Resource
-Runbook Download Link: [Check Local Traffic In F5.rbt](resources/Check Local Traffic In F5.rbt)
+Runbook Download Link: [Check Local Traffic In F5.rbt](resources/Check%20Local%20Traffic%20In%20F5.rbt)
 
 *See the resources folder if the link does not work*
 
