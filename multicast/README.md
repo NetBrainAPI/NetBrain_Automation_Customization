@@ -3,4 +3,4 @@
 ## Resource list related to [MULTICAST]
 
 
-* [multicast multi-vendor support](multicast%20multi-vendor%20support/)
+* [MULTICAST MULTI-VENDOR SUPPORT](multicast%20multi-vendor%20support/)

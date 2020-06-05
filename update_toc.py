@@ -23,7 +23,7 @@ feature_readme_template = """# NetBrain Custom Repository
 * Stay Tuned!
 {% else %}
 {% for feature_name in feature_list %}
-* [{{feature_name}}]({{feature_name|replace(' ','%20')}}/)
+* [{{feature_name|upper}}]({{feature_name|replace(' ','%20')}}/)
 {%- endfor %}
 {% endif %}
 """
