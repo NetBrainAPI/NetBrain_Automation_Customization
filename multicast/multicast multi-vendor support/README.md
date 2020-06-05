@@ -1,8 +1,8 @@
-# Multicast Infraestructure Mapping Solution
+# Multicast Infrastructure Mapping Solution
 
 ## Background
 
-This Mulicast mapping Qapp give users the possibility of identifying all devices within their domain that have a specific multicast state present and to map and visualize that Shared / SPT (shortest path tree).
+This Multicast mapping Qapp give users the possibility of identifying all devices within their domain that have a specific multicast state present and to map and visualize that Shared / SPT (shortest path tree).
 
 **NOTE:** _This solution will work on VPN and non VPN environments, depending on the deployment and design of the network._
 
