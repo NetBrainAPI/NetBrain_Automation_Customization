@@ -25,6 +25,8 @@ You could use any existing maps, search for F5 devices in the search bar, etc.
 
 * To show sys connections, click on the sys connection data unit. There could be many results, you could type in the ip address in the search bars to find it. Whether you are looking for client side or server side IP, the process is the same.
 
+![](images/4.png)
+
 * All the results are recorded in the runbook. If you save the map, the results are kept to analyze later. Also,  you should consider save them as runbook template so that someone else could use it next time. In this example, I saved my runbook template and uploaded in the Resource below. 
 #### Sample Command Output
 Following commands was used by the DVTs in this demonstration:
