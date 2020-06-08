@@ -6,7 +6,7 @@ This repository contains the most common use cases and best practices in NetBrai
 * [BGP](bgp/) (0)
 * [CHANGE MANAGEMENT](change%20management/) (1)
 * [COMPLIANCE](compliance/) (1)
-* [CONNECTIVITY](connectivity/) (4)
+* [CONNECTIVITY](connectivity/) (5)
 * [HIGH AVAILABILITY](high%20availability/) (0)
 * [IPSEC](ipsec/) (0)
 * [MULTICAST](multicast/) (1)
