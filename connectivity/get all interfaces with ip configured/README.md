@@ -51,6 +51,16 @@ for dev in $this:
 ## Resource
 Sample Qapp Download Link: [IP_Interfaces_Report.xapp](resources/IP_Interfaces_Report.xapp)
 
+## Q&A
+### [Q]: Where is `property name`? Where to find those?
+### [A]: `property name` also known as `GDR` or `Global Data Repository`, pls check this link for more detail: https://www.netbraintech.com/docs/ie80/help/index.html?configuring-gdr.htm. All the build-in `property name` can be found under `Tenant Management`, so make sure the right `property name` is being used.
+* Device Property
+![](images/device_gdr.png)
+* Interface Property
+![](images/intf_gdr.png)
+* Module Property
+![](images/module_grd.png)
+
 ### *Disclaimer*
 *The solution provided above is developed by testing environment so may not suit to every scenario, please feel free to contact NetBrain Support <Support@netbraintech.com> if any questions related to the solution.* 
 
