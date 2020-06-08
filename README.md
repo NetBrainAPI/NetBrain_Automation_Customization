@@ -10,7 +10,7 @@ This repository contains the most common use cases and best practices in NetBrai
 * [HIGH AVAILABILITY](high%20availability/) (0)
 * [IPSEC](ipsec/) (0)
 * [MULTICAST](multicast/) (1)
-* [NETWORK TOOLS](network%20tools/) (1)
+* [NETWORK TOOLS](network%20tools/) (3)
 * [OSPF](ospf/) (0)
 * [SECURITY](security/) (2)
 * [SPANNING TREE](spanning%20tree/) (0)
