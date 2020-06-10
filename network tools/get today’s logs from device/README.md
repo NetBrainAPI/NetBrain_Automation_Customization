@@ -51,7 +51,7 @@ This Gapp will help you collect logs from the current day and show them for each
 
 ![](images/run_gapp.png)
 ![](images/gapp_runbook.png)
-* Run the Gapp by opening a map, right click the white background and select `Run Gapp`. The Gapp will be added to the Runbook, select on which devices from the map you want it to run and click `Run`.
+* Run the Gapp by opening a map, right click the white background and select `Run Gapp`. The Gapp will be added to the runbook, select on which devices from the map you want it to run and click `Run`.
 
 ![](images/gapp_results.png)
 * Each device in the map will have a note showing today's logs.
