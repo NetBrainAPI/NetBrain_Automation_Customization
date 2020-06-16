@@ -7,7 +7,7 @@ This repository contains the most common use cases and best practices in NetBrai
 * [CHANGE MANAGEMENT](change%20management/) (1)
 * [COMPLIANCE](compliance/) (1)
 * [CONNECTIVITY](connectivity/) (5)
-* [HIGH AVAILABILITY](high%20availability/) (0)
+* [HIGH AVAILABILITY](high%20availability/) (1)
 * [IPSEC](ipsec/) (0)
 * [MULTICAST](multicast/) (1)
 * [NETBRAIN DOMAIN MANAGEMENT](netbrain%20domain%20management/) (1)
