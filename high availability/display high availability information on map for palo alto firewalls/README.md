@@ -4,7 +4,7 @@ This Data View Template (DVT) shows relevant high availability information for P
 **Version: NetBrain v8.x**
 
 ## Use Case
-Visualize all relevant information for firewalls configured with high availability.
+Visualize all relevant information for firewalls configured with high availability. Being able to quickly identify HA status, details, health and rules directly on a map for each firewall.
 
 ## Solution
 
