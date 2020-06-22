@@ -5,13 +5,11 @@ By using NetBrain Change Analysis, it is much easier to track and acknowledge th
 
 ## Use Case
 
-In daily network operation, to understand top talkers or sessions are helpful to identify critical path for utilization analysis or security audit purpose. If Netflow is not configured, using session data from firewall could be a way to analyst.
-
-The example is based on Cisco ASA firewall, but similar concept could apply to other vendors.
+In daily network operation, to understand top talkers or sessions are helpful to identify
 
 ## Solution
 
-### 1. Parser CLI Command
+### 1. Set up System Benchmark
 ![](images/show_conn_parser.png)
 * Create Cisco ASA parser `show conn` under `Parser Library`.
 
