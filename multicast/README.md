@@ -1,5 +1,6 @@
 # NetBrain Custom Repository
 
+## Resource list related to [MULTICAST]
 
-## Multicast related resource list:
-* Stay Tunned
+
+* [MULTICAST MULTI-VENDOR SUPPORT](multicast%20multi-vendor%20support/)

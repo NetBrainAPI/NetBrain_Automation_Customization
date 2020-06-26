@@ -1,5 +1,7 @@
 # NetBrain Custom Repository
 
+## Resource list related to [VPLS]
 
-## VPLS related resource list:
-* [Finding an end-system MAC Address in a VPLS Domain](find%20mac%20address%20in%20vpls%20domain/)
+
+* [FIND MAC ADDRESS IN VPLS DOMAIN](find%20mac%20address%20in%20vpls%20domain/)
+* [PING MAC THROUGH VPLS DOMAIN](ping%20mac%20through%20vpls%20domain/)

@@ -1,5 +1,5 @@
 # NetBrain Custom Repository
 
+## Resource list related to [IPSEC]
 
-## IPSec related resource list:
-* Stay Tunned
+* Stay Tuned!
