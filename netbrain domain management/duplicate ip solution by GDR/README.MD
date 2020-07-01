@@ -1,4 +1,4 @@
-# NetBrain Duplicated IP Solution
+# NetBrain Duplicated IP Solution by GDR
 
 ## Summary
 

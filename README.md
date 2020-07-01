@@ -10,7 +10,7 @@ This repository contains the most common use cases and best practices in NetBrai
 * [HIGH AVAILABILITY](high%20availability/) (1)
 * [IPSEC](ipsec/) (0)
 * [MULTICAST](multicast/) (1)
-* [NETBRAIN DOMAIN MANAGEMENT](netbrain%20domain%20management/) (1)
+* [NETBRAIN DOMAIN MANAGEMENT](netbrain%20domain%20management/) (2)
 * [NETWORK TOOLS](network%20tools/) (3)
 * [OSPF](ospf/) (0)
 * [SECURITY](security/) (3)
