@@ -70,7 +70,7 @@ Verify with Topo connections
 
 *If topo still not updated, pls manually rebuild l3 topo to update connections, please see: https://www.netbraintech.com/docs/ie80/help/index.html?rebuilding-topology.htm#m*
 
-[Sample Qapp Link](resources/Set%20Zone%20via%20Import%20Table.xapp)
+[Sample Qapp Link](resources/)
 
 ### *Disclaimer*
 *The solution provided above is developed by testing environment so may not suit to every scenario, please feel free to contact NetBrain Support <Support@netbraintech.com> if any questions related to the solution.* 
