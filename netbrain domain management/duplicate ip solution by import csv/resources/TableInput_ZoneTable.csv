@@ -1,0 +1,3 @@
+deviceName,interfaceName,interfaceIP,zoneName
+EMU_MBT_R3,Ethernet0/1,158.2.5.2/30,Zone1
+EMU_MBT_R2,Ethernet0/1,158.2.5.1/30,Zone1
