@@ -4,13 +4,13 @@ This repository contains the most common use cases and best practices in NetBrai
 ## Resource Category by Network Features:
 
 * [BGP](bgp/) (0)
-* [CHANGE MANAGEMENT](change%20management/) (2)
+* [CHANGE MANAGEMENT](change%20management/) (3)
 * [COMPLIANCE](compliance/) (1)
 * [CONNECTIVITY](connectivity/) (6)
 * [HIGH AVAILABILITY](high%20availability/) (1)
 * [IPSEC](ipsec/) (0)
 * [MULTICAST](multicast/) (1)
-* [NETBRAIN DOMAIN MANAGEMENT](netbrain%20domain%20management/) (2)
+* [NETBRAIN DOMAIN MANAGEMENT](netbrain%20domain%20management/) (3)
 * [NETWORK TOOLS](network%20tools/) (3)
 * [OSPF](ospf/) (0)
 * [QOS](qos/) (1)
