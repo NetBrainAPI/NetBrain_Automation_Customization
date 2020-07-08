@@ -15,6 +15,7 @@ TBD
 
 ![](images/benchmark_before.gif)
 * Define what to `Benchmark Before` the change is executed; the results will be compared later.
+
 ![](images/run_benchmark_before.png)
 * Run the benchmark and the results will be stored in the Runbook.
 
