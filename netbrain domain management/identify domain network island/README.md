@@ -66,14 +66,14 @@ C:\Users\Desktop\Jump Start\Customers\Island_Discover>python island_discover.py
 
 ![](images/island03.png)
 
-## Follow Up
+### 4. Follow Up
 Once the network island information has been retrieved, it will guide you which part need to be connected or fixed. Here are some resources can help self-troubleshooting:
 
-### 1. Online Help: https://www.netbraintech.com/docs/ie80/help/index.html?building-domain.htm
+#### 1. Online Help: https://www.netbraintech.com/docs/ie80/help/index.html?building-domain.htm
 
-### 2. NetBrain University: https://www.netbraintech.com/support/live-training/
+#### 2. NetBrain University: https://www.netbraintech.com/support/live-training/
 
-### 3. NetBrain Support: please feel free to contact NetBrain Support <Support@netbraintech.com> for advanced assistance.
+#### 3. NetBrain Support: please feel free to contact NetBrain Support <Support@netbraintech.com> for advanced assistance.
 
 ### *Disclaimer*
 *The solution provided above is developed by testing environment so may not suit to every scenario, please feel free to contact NetBrain Support <Support@netbraintech.com> if any questions related to the solution.* 
