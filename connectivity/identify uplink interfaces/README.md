@@ -21,7 +21,7 @@ If there is not already a parser for the cdp neighbors command, it will have to 
 
 - Highlight the output table and select "Define Table", then verify the results as shown below:
 
-![creating parser](/connectivity/identify uplink interfaces/resources/createparser.gif)
+![creating parser](/connectivity/identify%20uplink%20interfaces/resources/createparser.gif)
 
 - Save the parser and name it appropriately
 
@@ -37,21 +37,21 @@ While the following steps will be detailed, some basic understanding of how to b
 
 - Enter `show cdp neighbors` into the command field and the appropriate parser and variable tree should appear (shown below):
 
-![parser and variable tree](/connectivity/identify uplink interfaces/resources/qapp_parservariabletree.png)
+![parser and variable tree](/connectivity/identify%20uplink%20interfaces/resources/qapp_parservariabletree.png)
 
 - Extend to a "Device Data Table" then further extend that to a *single table operator sub-table*
 
 - Select the "Operator" node and filter the table as shown below to remove devices that are not routers or switches:
 
-![filter sub-table](/connectivity/identify uplink interfaces/resources/qapp_filtersubtable.gif)
+![filter sub-table](/connectivity/identify%20uplink%20interfaces/resources/qapp_filtersubtable.gif)
 
 - Extend to a *single table operator sub-table* once more and apply the following filter to remove all columns except the interface ID:
 
-![filter interfaces](/connectivity/identify uplink interfaces/resources/qapp_filterinterfacesonly.png)
+![filter interfaces](/connectivity/identify%20uplink%20interfaces/resources/qapp_filterinterfacesonly.png)
 
 - Extend to the *single table operator*, *convert* and convert to a CSV then extend to a *basic output* and finally extend to a *CSV Export*(shown below):
 
-![extend to a CSV export](/connectivity/identify uplink interfaces/resources/convertcsv.gif)
+![extend to a CSV export](/connectivity/identify%20uplink%20interfaces/resources/convertcsv.gif)
 
 - Save the Qapp and name it appropriately
 
@@ -63,7 +63,7 @@ While the following steps will be detailed, some basic understanding of how to b
 
 - Setup the new report as shown below:
 
-![create a report](/connectivity/identify uplink interfaces/resources/createreport.gif)
+![create a report](/connectivity/identify%20uplink%20interfaces/resources/createreport.gif)
 
 - Click "Back to Previous Page" and select the new report, it should automatically start running
 
