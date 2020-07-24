@@ -1,4 +1,4 @@
-# Identify all Uplink interfaces (Ciso only)
+# Identify all Uplink interfaces (Cisco only)
 
 Note:
 This guide is meant only for Cisco devices as it relies on CDP, but could be adapted to other hardware using the same methodology.
