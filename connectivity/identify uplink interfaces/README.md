@@ -74,3 +74,6 @@ While the following steps will be detailed, some basic understanding of how to b
 There is now a report that shows the uplink ports detected on each device. Note that the information that appears in the report can be easily modified in the Qapp. For instance, if the device name on the other end of the uplink is desired, simply add that to the filter in the *sub-table operation*.
 
 As mentioned at the beginning of the document, this can be modified for other similar protocols that are supported by other devices. Only a different parser would be required, as the Qapp logic would largely remain the same.
+
+### *Disclaimer*
+*The solution provided above is developed by testing environment so may not suit to every scenario, please feel free to contact NetBrain Support <Support@netbraintech.com> if any questions related to the solution.* 
