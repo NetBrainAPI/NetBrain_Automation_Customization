@@ -1,10 +1,10 @@
 # High Availability Visibility for Check Point Firewalls
-This Data View Template (DVT) shows relevant high availability information for Check Point firewalls.
+This Data View Template (DVT) shows relevant high availability (HA) information for Check Point firewalls.
 
 **Version: NetBrain v8.x**
 
 ## Use Case
-Visualize all relevant information for firewalls configured with high availability. Being able to quickly identify HA status, details, health and statistics directly on a map for each firewall.
+Visualize all relevant information for Check Point firewalls configured with high availability. Being able to quickly identify HA status, details, health and statistics directly on a map for each firewall.
 
 ## Solution
 
@@ -16,10 +16,14 @@ Visualize all relevant information for firewalls configured with high availabili
 
 
 ## Results
-* The HA information will be displayed for each device on the map: device data units showing relevant HA information; three dots indicate that more data units are available **(1)**; device note containing HA details **(2)**; if you click on a device unit, you can see historical information for that device unit **(3)**; map legend shows a summary of device and interface highlights **(4)**:
+* The HA information will be displayed for each device on the map; device data units showing relevant HA information. Three dots indicate that more data units are available **(1)**. Device note contains HA state details **(2)**. If you click on a device unit, you can see historical information for that device unit **(3)**. Map legend shows a summary of device and interface highlights **(4)**.
 
   ![](images/dvt_overview.png)
 
+
+* A closer look at the map legend:
+
+  ![](images/map_legend.png)
 
 * A closer look at the device data units:
 
@@ -41,7 +45,6 @@ cphaprob -l list
 cphaprob state
 fw ctl pstat
 show routed cluster-state detailed
-
 ```
 
 
